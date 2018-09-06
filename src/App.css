@@ -14,6 +14,7 @@ form{
   margin: 0 auto;
   margin-top: 300px;;
 
+
 }
 
 
@@ -37,3 +38,8 @@ button {
   background-color: #fff;
 }
 
+.errors{
+  width:400px;
+  color:red;
+  margin: 0 auto;
+}
